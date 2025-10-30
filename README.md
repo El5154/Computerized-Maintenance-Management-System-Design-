@@ -53,7 +53,9 @@ The CMMS system architecture includes:
 4. **API Integration** – Secure Kronos API communication  
 5. **Hardware Integration** – Tablets for field workers and servers for system hosting  
 
-![System Architecture Diagram](docs/system_architecture.png) *(placeholder for diagram)*
+
+<img width="755" height="491" alt="CMMS desktop design" src="https://github.com/user-attachments/assets/7e13f797-6f00-46b3-a1d7-ec2f651a9c6d" />
+<img width="311" height="390" alt="CMMS mobile design" src="https://github.com/user-attachments/assets/9ec3113b-1fd3-4e78-8a97-b1e41665d8da" />
 
 ---
 
